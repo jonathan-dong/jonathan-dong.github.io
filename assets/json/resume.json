@@ -31,10 +31,10 @@
       "endDate": "",
       "summary": "Full Stack Developer specializing in server-driven UIs using TypeScript, React, Java and more deployed through AWS.",
       "highlights": [
-        "Lead the migration of a Java-based API from a legacy third-party data source to custom serverless cloud infrastructure built with AWS ECS and GraphQL",
-        "Developed and deployed an external-facing website using TypeScript, React, and Next.js that interfaces with a CDN and uses server-side rendering to allow non-technical teams to easily make updates to content on the site",
-        "Designed and implemented search functionality using AWS OpenSearch for an external-facing website improving data accessibility and reducing user friction in navigating site content",
-        "Engineered microservices in Python deployed on AWS Lambda responsible for fetching and delivering customer rewards information across web and mobile platforms"
+        "Led the migration of a Java-based API from a legacy third-party data source to a custom AWS ECS and GraphQL infrastructure. Analyzed 100,000+ customer accounts and resolved 1,000+ data inconsistencies in collaboration with data engineering to improved reliability ahead of production launch",
+        "Built and launched an external-facing site with TypeScript, React, and Next.js, leveraging server-side rendering and a CDN to enable non-technical teams to manage content. Reduced support hours by 75% by streamlining external partner onboarding, boosting both partner satisfaction and internal efficiency",
+        "Designed and implemented an AWS OpenSearch-based search solution, making data more accessible. Built a Lambda-driven ingestion pipeline to keep search indexes in sync with live data, ensuring a seamless user experience",
+        "Developed and deployed Python microservices on AWS Lambda to deliver customer rewards data across web and mobile platforms. Created Swift-based UI components for the Capital One iOS app, providing rewards data for over 100,000 customers"
     ]
     }
   ],
@@ -63,7 +63,40 @@
     }
   ],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Technologies",
+      "keywords": [
+        "Java",
+        "TypeScript",
+        "Python",
+        "Swift",
+        "JavaScript",
+         "HTML",
+         "CSS",
+         "GraphQL",
+         "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "React",
+        "Next.js",
+        "Spring Boot",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Cloud / DevOps",
+      "keywords": [
+        "AWS(Lambda, ECS, DynamoDB, OpenSearch, S3)",
+        "Docker",
+        "CI/CD",
+        "Git"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "English",
