@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jonathan
 middle_name: A.
 last_name: Dong
-contact_note:
+contact_note: Reach out to me at any of the places above!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Jonathan Dong's personal website.
 footer_text: >
@@ -61,7 +61,7 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
