@@ -35,7 +35,7 @@
         "Built and launched an external-facing site with TypeScript, React, and Next.js, leveraging server-side rendering and a CDN to enable non-technical teams to manage content. Reduced support hours by 75% by streamlining external partner onboarding, boosting both partner satisfaction and internal efficiency",
         "Designed and implemented an AWS OpenSearch-based search solution, making data more accessible. Built a Lambda-driven ingestion pipeline to keep search indexes in sync with live data, ensuring a seamless user experience",
         "Developed and deployed Python microservices on AWS Lambda to deliver customer rewards data across web and mobile platforms. Created Swift-based UI components for the Capital One iOS app, providing rewards data for over 100,000 customers"
-    ]
+      ]
     }
   ],
   "volunteer": [],
@@ -66,35 +66,15 @@
   "skills": [
     {
       "name": "Technologies",
-      "keywords": [
-        "Java",
-        "TypeScript",
-        "Python",
-        "Swift",
-        "JavaScript",
-         "HTML",
-         "CSS",
-         "GraphQL",
-         "SQL"
-      ]
+      "keywords": ["Java", "TypeScript", "Python", "Swift", "JavaScript", "HTML", "CSS", "GraphQL", "SQL"]
     },
     {
       "name": "Frameworks",
-      "keywords": [
-        "React",
-        "Next.js",
-        "Spring Boot",
-        "Node.js"
-      ]
+      "keywords": ["React", "Next.js", "Spring Boot", "Node.js"]
     },
     {
       "name": "Cloud / DevOps",
-      "keywords": [
-        "AWS(Lambda, ECS, DynamoDB, OpenSearch, S3)",
-        "Docker",
-        "CI/CD",
-        "Git"
-      ]
+      "keywords": ["AWS(Lambda, ECS, DynamoDB, OpenSearch, S3)", "Docker", "CI/CD", "Git"]
     }
   ],
   "languages": [
