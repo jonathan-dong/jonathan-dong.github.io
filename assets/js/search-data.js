@@ -45,11 +45,16 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "projects-city-photography",
-          title: 'City Photography',
+      },{id: "projects-moving-to-the-big-city",
+          title: 'Moving to the big city',
           description: "Chicago, IL",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/photography_1/";
+              window.location.href = "/projects/city-photography/";
+            },},{id: "projects-link-trie",
+          title: 'link-trie',
+          description: "A Trie data structure designed for link paths.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/link-trie/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -71,30 +76,4 @@ ninja.data = [{
         handler: () => {
           window.open("https://www.linkedin.com/in/jadong2001", "_blank");
         },
-      },{
-      id: 'light-theme',
-      title: 'Change theme to light',
-      description: 'Change the theme of the site to Light',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("light");
-      },
-    },
-    {
-      id: 'dark-theme',
-      title: 'Change theme to dark',
-      description: 'Change the theme of the site to Dark',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("dark");
-      },
-    },
-    {
-      id: 'system-theme',
-      title: 'Use system default theme',
-      description: 'Change the theme of the site to System Default',
-      section: 'Theme',
-      handler: () => {
-        setThemeSetting("system");
-      },
-    },];
+      },];
