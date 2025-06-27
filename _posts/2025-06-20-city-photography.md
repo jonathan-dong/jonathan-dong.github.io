@@ -1,13 +1,11 @@
 ---
-layout: page
+layout: post
 title: Moving to the big city
+date: 2025-06-20 00:00:00-0500
 description: Chicago, IL
-img: assets/img/chicago_thumbnail.jpg
-category: photography
----
-
-###### written 6/20/2025
-
+tags: photography
+categories:
+related_posts: false
 ---
 
 After moving to Chicago post-graduation in August, 2023 I quickly realized how different life is outside of school. Making money, having set working hours, not having homework to do on the weekends, and not being surrounded by a community of people in similar circumstances were all changes that took more getting used to than I thought they would.
