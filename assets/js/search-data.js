@@ -30,9 +30,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "post-moving-to-the-big-city",
+        },{id: "post-a-chicago-sunset",
         
-          title: "Moving to the big city",
+          title: "A Chicago Sunset",
+        
+        description: "Chicago, IL",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/chi-sky/";
+          
+        },
+      },{id: "post-what-comes-next",
+        
+          title: "What Comes Next?",
         
         description: "Chicago, IL",
         section: "Posts",
