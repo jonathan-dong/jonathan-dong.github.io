@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Moving to the big city
+title: What Comes Next?
 date: 2025-06-20 00:00:00-0500
 description: Chicago, IL
-tags: photography
+tags: photos
 categories:
 related_posts: false
 ---
@@ -24,15 +24,15 @@ Much to my friends dismay, I did not buy his camera from him and instead decided
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/chicago_friends.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/chicago_friends.jpg" title="chicago skyline" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Skyline from near Adler Planetarium (3/15/24) &mdash; 42mm | &fnof;5.6 | 1/5000s | ISO 500
+    What Comes Next? (3/15/24) &mdash; 42mm | &fnof;5.6 | 1/5000s | ISO 500
 </div>
 
 ---
 
-I took this photo on one of my first outings with my new camera. I was joined by two friends, the one who first got me into photography and another who he had also influenced into trying photography.
+I took this photo on one of my first outings with my new camera near Adler Planetarium. I was joined by two friends, the one who first got me into photography and another who he had also influenced into trying photography.
 
 Looking back, I think this photo really captures the search for meaning that I've experienced after college. I'm young, I have my whole life ahead of me. That's exciting, but it's also anxiety inducing. What's next? Where will I be in 5, 10, or 20 years? What do I want my life to look like?
