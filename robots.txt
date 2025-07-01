@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jonathan-dong.github.io/sitemap.xml
+Sitemap: https://www.jonathan-dong.com/sitemap.xml
